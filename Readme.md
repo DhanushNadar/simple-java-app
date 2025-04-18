@@ -152,7 +152,7 @@ java -cp target/classes HelloWorld
 
 # 📸 Example Console Output
 
-[pipeline screenshot](images/pipeline.png)
-[Output screenshot](images/output.png)
+![pipeline screenshot](images/pipeline.png)
+![Output screenshot](images/output.png)
 
 > Made with ❤️ by Dhanush Nadar.
